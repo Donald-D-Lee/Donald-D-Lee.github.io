@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>过期摇滚青年</title>
   
-  
+  <subtitle>一个假博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://urock.cc/"/>
